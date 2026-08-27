@@ -1,0 +1,30 @@
+channel_id,channel_name,channel_type,market_id,country,annual_running_cost
+CH001,Store 1-01,Store,M1,uk,
+CH002,Store 1-02,Store,M1,United Kingdom,"£5,598.77"
+CH003,RoboShop 1-03,Vending,M1,UK,£345.09
+CH004,RoboShop 1-04,RoboShop,M1,United Kingdom,£320.12
+CH005,RoboShop 1-05,robo shop,M1,United Kingdom,£386.38
+CH006,RoboShop 1-06,Vending,M1,United Kingdom,£306
+CH007,Online 1-07,online,M1,U.K.,"£3,553.68"
+CH008,Store 2-08,Physical Store,M2,FR,"£3,962.45"
+CH009,Store 2-09,STORE,M2,france,"£3,225.24"
+CH010,RoboShop 2-10,robo shop,M2,france,£204.42
+CH011,RoboShop 2-11,RoboShop,M2,FR,£276.39
+CH012,RoboShop 2-12,vending machine,M2,france,
+CH013,RoboShop 2-13,Robo Shop,M2,FR,
+CH014,Online 2-14,online,M2,FR,2713.12
+CH015,Store 3-15,STORE,M3,DE,"£3,907"
+CH016,Store 3-16,STORE,M3,germany,"£4,001.24"
+CH017,RoboShop 3-17,Robo Shop,M3,Germany,£190
+CH018,RoboShop 3-18,RoboShop,M3,Germany,262.92
+CH019,RoboShop 3-19,Robo Shop,M3,DE,£231
+CH020,RoboShop 3-20,robo shop,M3,Germany,£226.76
+CH021,Online 3-21,online,M3,germany,"£2,404.46"
+CH022,Store 4-22,Physical Store,M4,IT,"£2,844"
+CH023,Store 4-23,Physical Store,M4,italy,"£2,923.26"
+CH024,RoboShop 4-24,Robo Shop,M4,italy,£205
+CH025,RoboShop 4-25,RoboShop,M4,IT,£228.58
+CH026,RoboShop 4-26,robo shop,M4,IT,£267.01
+CH027,RoboShop 4-27,RoboShop,M4,Italy,£228.50
+CH028,Online 4-28,Online,M4,Italy,"£1,464.88"
+CH006,RoboShop 1-06,Vending,M1,United Kingdom,£306
